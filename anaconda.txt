@@ -1,0 +1,16 @@
+you might have heard of anaconda = its another tool that manages python environments and packages. it's  popular in the data science because it comes pre-loaded with many data science packages 
+
+another way to manage python distribution and virtual environments and packages [ very usefull in data science and ai]
+
+
+# python packages and pip
+-- Understanding Python's packages ecosystem 
+
+Standing on the shoulders of giants
+
+-- one of python superpowers is it's massive collection of packages of writing everything from scratch from scratch you can use code that others have alredy written tested and shared 
+
+What is Packages 
+
+> request - Download web pages 
+
