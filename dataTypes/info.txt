@@ -15,4 +15,22 @@ just like an real life. Python works different kinds of information. You can't a
 
 Each type has its own rules and abilities Let's explore them
 
+---- Two Types of number ----
+python has two ways to store numbers
+
+- Integer 
+whole numbers without decimals
+
+age = 25
+score = -10
+
+- Floats 
+Numbers with decimal points
+
+price = 19.99
+temperature = -5.5
+pi = 3.14159
+
+
+
 

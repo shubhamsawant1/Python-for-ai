@@ -1,0 +1,10 @@
+Strings 
+working with text in python 
+
+What are string?
+
+strings are text - any characters quotes doesn't care if you single or double quotes just be consistant.
+
+name = "Alice"
+message = 'Hello, World!'
+
