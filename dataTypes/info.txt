@@ -1,0 +1,18 @@
+----- Data types 
+Different kinds of information in python 
+
+What are data types? 
+
+just like an real life. Python works different kinds of information. You can't add someone's name to their age - they're differen t types of data
+
+-- python has four main data types you'll use constantly:
+
+> Numbers for counting and calculactions 
+
+> Text for words and messages
+
+> True/Flase for decisions
+
+Each type has its own rules and abilities Let's explore them
+
+
