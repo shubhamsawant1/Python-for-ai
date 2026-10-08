@@ -1,0 +1,34 @@
+Basic of programming operations
+
+All programming,  regardless of language, bolls down to few basic operaction
+
+> Store information
+
+age = 25
+name = "Sarah"
+
+> make decision
+
+if it's raining 
+    take umbrela 
+else:
+    wear sunglass
+
+> Repeat actions
+
+ repeat 10 times:
+ do pushup
+
+> calculate things
+  
+ total = price + tax
+
+------ Python Syntax -------
+How to write Python code properly
+
+What is syntax?
+
+Every programming language its own rules - its syntax. it's  like programmer in human language. You can't just write words in any order and expect people to understand. The same goes for programming.
+
+python's syntax is known for being clean and readable. But it still has rule you must follow, or your code won't run
+

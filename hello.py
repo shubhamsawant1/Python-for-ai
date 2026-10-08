@@ -1,15 +1,8 @@
-print("hello world!")
-print("Hello, from python!")
+import requests
 
-# Expriment
-# print statements
-
-print("Hello, world!")
-print("I'm learning python for AI and ML")
-print("My names is suraj")
-
-print("My name is [your name] ")
-print("Todat is a great day to code")
+# Download a web page
+response = requests.get("https://api.github.com")
+print(response.status_code)  # Should print 200
 
 
 
@@ -19,3 +12,5 @@ print("Todat is a great day to code")
 
 
 
+
+ 

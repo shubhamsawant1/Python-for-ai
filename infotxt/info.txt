@@ -1,0 +1,16 @@
+- what is programming - 
+writing instructions to computer so computer can Understand and perfrom the action and acomplish your goal 
+
+- Computers are literal -
+
+Here's the key things: computers do exactly what you tell them - nothing more, nothing less. 
+They can't guss what you mean
+
+
+Exp
+> Get a computer
+> Add coffe grounds
+> Pour hot water
+> Wait 3 minute
+> Add milk if desired
+
