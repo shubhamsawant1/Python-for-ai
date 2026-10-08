@@ -1,0 +1,20 @@
+Python's unique feature: Indentation 
+
+Most language use {} brackets. Python uses indentation (spaces)
+
+# Python - clean and readable
+if temperature > 30:
+   print("it's Hot")
+   print("Turn on AC")
+
+#Other language (like Javascript)
+
+if (temperature > 30) {
+    console.log("it's hot!);
+    conslole.log("Turn on ac");
+} 
+
+Indentation rules
+
+# CORRECT - consistent 4 spaces
+
