@@ -1,0 +1,7 @@
+Python built-in-function are predefined function that are alwas awaliable in the python interpreter without withour requaring any import statement. As of python 3.15, there are over 70 build-in-function that handle essential taske ranging from mathematical calculaction to data type conversions and object inspection. 
+
+here is a categorized breakdown of the most common and vital build-in-function you will use in python:
+
+1. Input / Output & files
+
+These functions handles interaction with the console 

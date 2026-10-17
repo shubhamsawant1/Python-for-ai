@@ -1,0 +1,12 @@
+--------- Booleans-----------
+
+True and False values for decisions
+
+What are Booleans
+
+Booleans are the simplest data types - they can only True or Flase.  Think of them as yes / no answers
+
+is_logged_in = True
+is_admin = Flase
+has_permission = True
+

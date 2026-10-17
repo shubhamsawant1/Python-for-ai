@@ -20,3 +20,8 @@ full_name = first_name + " " + last_name
 long_dash = "_" * 50
 print(full_name)
 print(long_dash)
+
+# length of string build-in-function len()
+
+print(len(full_name))
+
