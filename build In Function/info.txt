@@ -4,4 +4,15 @@ here is a categorized breakdown of the most common and vital build-in-function y
 
 1. Input / Output & files
 
-These functions handles interaction with the console 
+These functions handles interaction with the console or external systems 
+
+> print() : Outputs data to the standard console 
+> input() : Prompts and read a string of input from the user.
+> open() :Opens a file and returns a corresponding file object.
+
+2.Type Casting & Constructors 
+These function convert a variable from one data to another or instantiate built-in data collection
+
+> int() / float() / str()/bool() : converts values into integer, floating-point numbers, strings or booleans.
+
+> list() / dict() / set() / tuple() :creates or converts an iterable in to a list dictionary,set,or tuple
