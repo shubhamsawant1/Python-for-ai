@@ -16,3 +16,5 @@ These function convert a variable from one data to another or instantiate built-
 > int() / float() / str()/bool() : converts values into integer, floating-point numbers, strings or booleans.
 
 > list() / dict() / set() / tuple() :creates or converts an iterable in to a list dictionary,set,or tuple
+
+3. Mathematics & Aggregations 
