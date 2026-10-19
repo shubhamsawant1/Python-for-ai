@@ -10,3 +10,18 @@ is_logged_in = True
 is_admin = Flase
 has_permission = True
 
+===== Comparison Operators ======
+
+These operators compare values and return True or False
+
+age = 25
+# Equality
+
+print(age == 25) # True Equals
+print(age != 30) # True - not equals 
+
+# Greater / Less than
+print(age > 20) # True - greater than
+print(age < 30) # True - Less than
+print(age >= 25) # True - Greater or equals
+print(age <= 25) # True - less or equal
