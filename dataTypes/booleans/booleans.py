@@ -11,3 +11,12 @@ else:
 if is_logged_in:
     password = input("Enter your password: ")
 
+# From comparison 
+age = 18
+can_vote = age >= 18 # True
+
+score = 75
+passed = score >= 60 # true
+
+print("can_vote:", can_vote)
+print("Passed:", passed)
