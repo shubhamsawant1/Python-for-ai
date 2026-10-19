@@ -1,0 +1,16 @@
+Python follows math rule
+
+result = 2 + 3 + 4   #14 (not 20!)
+result = (2 + 3) + 4 # 20(parantheses first)
+
+Logical Operators
+
+These combine boolean and condiction
+
+age = 25
+has_license = True
+
+# AND - both must be True
+
+can_drive = age >= 16 and has_license 
+print(can_drive) #True
