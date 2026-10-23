@@ -21,3 +21,40 @@ A Function is a named action. You call it by writing its name followed by parant
 
 print("hello")
 
+> Print - is a the function (it shows something on screen)
+>"hello" is the argument (what to show).
+
+Many function also return you can save in a variable:
+
+df = pd.read_csv("transction.csv")
+
+> read_csv is the function. it belongs to pandas, so we write pd. before it. 
+
+> "Transaction.csv" is the argument: which file to read
+
+> It returns a DataFrame, Which we store in df.
+
+4. Function, Methods and Attribute
+
+These three look similar but are different. you'll see all of them in this project.
+
+Function  name()    an action bt it self  print(df)
+
+Method    thing.name()   an action that belongs to a thing, so it works on that thing   df.head()
+
+Attribute   thing.name(no parantheses)      A fact about the thing, not an action    df.shape
+
+
+so in df.head(), the .head() methods means "take this table and give me its first rows." In df.shape, there are no parentheses because shape is just a stored fact about the table (rows and columns). Forgetting or adding parantheses wrongly is a common begineer error, so watch for it.
+
+--------------------------------
+
+import pandas as pd
+
+import loads a library of ready - made functions, as pd is a nickname so you can type pd. instead of pandas.
+
+df = pd.read_csv("transaction.csv")
+
+doesn't mean equals here it means store the result on the right into the name on the left. df is a variable a lable for something stored in a memory. you could call it anything, but df is the standard name.
+
+print(df.head())
