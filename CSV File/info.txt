@@ -1,0 +1,17 @@
+> What is CSV File?
+CSV stands for comma-Separated Values. It's plain text file where each lines is a arrow and commas separate the columns. Open transaction.csv in Notepad (not Excel) and you'll see:
+
+date,amount,type,category
+2025-10-01, 2650 =, income,sales
+2025-10-01, -35000, expense, rent 
+
+> The first Line is Header , with the column names.
+> Every other line is one row, one transaction.
+> The comma marks where one column ends and the next begains.
+
+exel can open it, but thats only a viewer. The file is plain text, which is why every program can read it, and why it's the standard way to move data around. Bank exports and accounting tools can all produce CSVs.
+
+
+What happenes When Python reads it
+
+df = pd.read_csv()
