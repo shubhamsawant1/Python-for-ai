@@ -58,3 +58,22 @@ df = pd.read_csv("transaction.csv")
 doesn't mean equals here it means store the result on the right into the name on the left. df is a variable a lable for something stored in a memory. you could call it anything, but df is the standard name.
 
 print(df.head())
+
+df.heads() runs first and produces the first 5 rows. Than print(...) display them. paratheses run from the inside outwords.
+
+print(df.shape)
+
+shows (1020, 4): 1020 rows and 4 columns 
+
+6. Where each function will be used in the project
+
+Function / method	What it does	Where we use it
+pd.read_csv()	Loads the file into a table	Step 2, loading data
+.head()	Shows the first rows	Checking the data looks right
+.shape	Number of rows and columns	Checking nothing is missing
+.groupby().sum()	Adds up amounts per group (per day)	Step 3, daily totals
+.cumsum()	Running total	Step 3, cash balance
+.dt.weekday, .dt.day	Weekday or day of month from a date	Step 4, forecasting patterns
+.mean()	Average	Step 4, typical sales per weekday
+def name():	Creates your own function	Step 5
+st.line_chart(), etc.	Draws things on the web page	Step 6
