@@ -14,4 +14,10 @@ exel can open it, but thats only a viewer. The file is plain text, which is why 
 
 What happenes When Python reads it
 
-df = pd.read_csv()
+df = pd.read_csv("transaction.csv")
+
+What is a function?
+A Function is a named action. You call it by writing its name followed by parantheses, and you put the information it needs inside the parantheses. Those are called arguments.
+
+print("hello")
+
