@@ -8,3 +8,6 @@ print(df.head(1))
 print(df.shape)
 print(df.groupby("type").sum())
 print(df.cumsum())
+
+dfStudent = pd.read_csv("names.csv")
+print(dfStudent.head(2))
