@@ -39,3 +39,7 @@ numbers = [10,20,40,50,60,23,45,78,95,41]
 # It skips the 20 at index 1 and finds the 20 at index 3
 
 print(numbers.index(20, 0))
+
+# Search for 20 between index 2 and index 4 (index 4 is excluded)
+
+print(numbers.index(20, 0, 4))
