@@ -23,3 +23,10 @@ index          column
 
 ?  i want to store passenger data of the Titanic. For a number of Passengers, I know the number name (Character), age (integers) and sex (male/female) data.
 
+to manually store data in table a DataFrame. When using a Python dictionary of list, the dictionary keys will be used as a column headers and the value in each list as columns of the DataFrame.
+
+A DataFrame is a 2 - dimensional data structure that can store data of different types (including characters, integers, floating point value, categorical data and more) in columns. it is similar to a spreadsheet, a SQL table or the data.frame in R 
+
+> The table has 3 columns, each of them with label. The column labels are respectively Name Age and Sex
+> The column Name consists of textual data with each value a string, the column Age are numbers and the column Sex is textual data.
+> The index labels each now. By default, this is a sequence of integer starting at 0.
