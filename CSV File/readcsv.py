@@ -23,3 +23,4 @@ print(dfStudent.head(4))
 
 print(dfStudent[dfStudent["name"].str.startswith("s")])
 print(dfStudent[dfStudent["name"].str.endswith("h")])
+print(dfStudent[dfStudent["name"].str.contains("a")])
