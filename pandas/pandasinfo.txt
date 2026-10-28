@@ -38,4 +38,11 @@ Each column in a DataFrame is a series
 
  ? I'am just interested in working with the table data in the column Age
 
- 
+df["Age"]
+0 22
+1 35
+2 58
+
+When selecting a single column of a pandas DataFrame, the result is a pandas series. To select the column, use the column label in beetween square brackets[].
+
+pandas
