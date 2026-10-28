@@ -43,3 +43,7 @@ print(numbers.index(20, 0))
 # Search for 20 between index 2 and index 4 (index 4 is excluded)
 
 print(numbers.index(20, 0, 4))
+
+count = numbers.count(20)
+# Return the number of times value appears in the list.
+print(f"count: {count} ")
