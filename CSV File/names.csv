@@ -1,5 +1,5 @@
-name,age,student,degree
-Alice,22,True,Bachelor
-shubham,24,False,Master
-viraj,21,True,Bachelor
-vidah,23,False,phD
+name,age,student,degree,salary
+Alice,22,True,Bachelor,23000
+shubham,24,False,Master,50000
+viraj,21,True,Bachelor,20000
+vidah,23,False,phD,40000
