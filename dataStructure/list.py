@@ -30,5 +30,12 @@ print(list)
 
 # print(list)
 
-list.index(list["shubham"]["sahil"])
-print(list)
+print(list.index("nikhil", 0))
+# # Return zero-based index of the first and end are interpreted as in the slice notation and are used to limit the search to a particular subsequance of the list,  the returned index is computed relative to the beginning of the sequence rather than the start argument.
+
+numbers = [10,20,40,50,60,23,45,78,95,41]
+
+# search for 20, starting the search at index 2
+# It skips the 20 at index 1 and finds the 20 at index 3
+
+print(numbers.index(20, 0))
