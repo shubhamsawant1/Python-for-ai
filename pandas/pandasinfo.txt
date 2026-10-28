@@ -30,3 +30,12 @@ A DataFrame is a 2 - dimensional data structure that can store data of different
 > The table has 3 columns, each of them with label. The column labels are respectively Name Age and Sex
 > The column Name consists of textual data with each value a string, the column Age are numbers and the column Sex is textual data.
 > The index labels each now. By default, this is a sequence of integer starting at 0.
+
+Each column in a DataFrame is a series
+ 
+ series 
+
+
+ ? I'am just interested in working with the table data in the column Age
+
+ 

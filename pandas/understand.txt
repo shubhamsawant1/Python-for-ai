@@ -1,0 +1,12 @@
+Understand the Syntax
+
+Code          meaning
+
+df["Age"]  -   select the Age column 
+df[["Age"]] -  Select Age as a DataFrame 
+df["Age"] > 30 - Create a True/False condition for each passenger
+df[df["Age"] > 30] - Return only rows where the condition is True 
+
+Flitering is important because you often need to select specific records before analyzing data or training a machine-learning model.
+
+print(df[df["sex"] == "female"]) - give me the data frame which contains sex is female 
