@@ -11,5 +11,12 @@ list.extend(list2)
 print(list)
 
 list.insert(0 , "sidharth")
-# insert an item at given position. The first argument is the index of the
+# insert an item at given position. The first argument is the index of the element before which to in - sert, so a.insert (0, x) inserts at the front of the list, and a.insert(len(a), x) is equivalent to a.append(x).
+
+print(list)
+
+list.remove("shubham")
+# Remove the first item from the list whose value is equal to value. it raises a ValueError if there is no such item.
+
+print(list)
 
