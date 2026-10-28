@@ -20,3 +20,7 @@ list.remove("shubham")
 
 print(list)
 
+list.pop(0)
+# Remove the item at the given position in the list, And return it,  if no index is specified, a.pop() removes and returns the last item in the list. it raises an IndexError if the list is empty or the index is outside the list range. 
+
+print(list)
