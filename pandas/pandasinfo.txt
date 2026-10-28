@@ -20,3 +20,6 @@ name   Age   Sex  - label
 3
 
 index          column
+
+?  i want to store passenger data of the Titanic. For a number of Passengers, I know the number name (Character), age (integers) and sex (male/female) data.
+
