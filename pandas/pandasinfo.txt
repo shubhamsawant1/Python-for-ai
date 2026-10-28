@@ -1,0 +1,22 @@
+What kind of data does pandas handle ?
+
+i want to start pandas 
+
+import pandas as pd
+
+to load the pandas and the start workingn with it, import the package. The community agreed alias for pandas is pd , so loading pandas as pd is assumed standard practice for all of the documentation.
+
+pandas data table representation
+
+DataFrame
+
+name   Age   Sex  - label
+0
+
+1
+
+2
+
+3
+
+index          column
