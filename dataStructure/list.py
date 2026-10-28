@@ -47,3 +47,39 @@ print(numbers.index(20, 0, 4))
 count = numbers.count(20)
 # Return the number of times value appears in the list.
 print(f"count: {count} ")
+
+fruits = ["banana", "Apple", "mango", "grape", "orange", "pear"]
+# sort the items of the list in place ( the argument can be used for sort custmization, see sorted() for their explanation)
+fruits.sort(reverse=True)
+print(fruits)
+
+fruits.reverse()
+# Reverse the element of the list in place 
+
+print(fruits)
+
+myfruits = fruits.copy()
+# Return a shallow copy of the list. Similar to a[:]
+print(myfruits)
+
+# examples that use most of the list methods
+
+fruit = ["orange", "apple", "pear", "banana", "kiwi", "apple", "banana"]
+print(fruit.count('apple'))
+
+print(fruit.count('tangerine'))
+
+print(fruit.count('banana'))
+
+print(fruit.index('banana'))
+
+fruit.reverse()
+
+print(fruit)
+
+fruit.append('mango')
+print(fruit)
+
+fruit.insert(2, 'banana')
+print(fruit)
+
