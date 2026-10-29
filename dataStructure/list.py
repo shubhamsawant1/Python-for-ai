@@ -83,3 +83,10 @@ print(fruit)
 fruit.insert(2, 'banana')
 print(fruit)
 
+fruit.sort(reverse=False)
+print(fruit)
+
+newNumber = [20, 50, 40, 70, 80, 60]
+
+newNumber.sort(reverse=True)
+print(newNumber)
