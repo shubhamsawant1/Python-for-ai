@@ -17,3 +17,4 @@ df = pd.DataFrame(
 print(df)
 print(df[df["Age"] > 25])
 print(df[df["Sex"] == "female"])
+
