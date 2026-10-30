@@ -16,5 +16,25 @@ print(is_weekend)
 # NOT - reverse the value 
 
 is_adult = age >= 18
-is_child = not is_adult 
-print(is_child)
+is_child = not is_adult # False
+print("statement",is_child)    # False
+
+# Truth tables
+
+# Understanding how and , not work
+
+# AND : Both must be true
+
+print(True and True) # true 
+print(True and False) # False
+print(False and False) #False
+
+# OR: At least and must be True
+
+print(True or False) # True
+print(False or False)
+
+# NOT: Flips the Value
+
+print(not True)  # False
+print(not False) # True
