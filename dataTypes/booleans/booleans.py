@@ -20,3 +20,23 @@ passed = score >= 60 # true
 
 print("can_vote:", can_vote)
 print("Passed:", passed)
+
+# Comparison Operators
+# These operators compare values and return True or False
+
+age = 25
+
+# Equality
+
+print(age == 25)  # True  - equals 
+print(age != 30)
+
+# Greater / Less than
+
+print(age > 20)     #True - Greater than
+print(age < 30)     # True - less than
+print(age >= 25)    # True - greater or equal
+print(age <= 25)    # True - less or equal
+
+# ! - Remember = assigns a value, while == compares values. This is a common source of bugs! 
+

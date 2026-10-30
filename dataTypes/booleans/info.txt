@@ -25,3 +25,10 @@ print(age > 20) # True - greater than
 print(age < 30) # True - Less than
 print(age >= 25) # True - Greater or equals
 print(age <= 25) # True - less or equal
+
+common mistake 
+
+> wrong capitalizaton 
+> using = insted of ==
+
+
