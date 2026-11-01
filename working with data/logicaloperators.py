@@ -1,11 +1,11 @@
-age = 25
+age = 12
 
 has_license = True
-
+drunk = True
 # AND - both must be a true 
-can_drive = age >= 16 and has_license
+can_drive = age >= 16 and has_license and not drunk
 
-print(can_drive) # True
+print(f"can_drive {can_drive}") # True
 
 # OR - at least one  must be true
 
