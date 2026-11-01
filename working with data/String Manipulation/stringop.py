@@ -19,3 +19,10 @@ print(full_name) # output: john doe
 age = 25 
 intro = f"my name is {full_name} and I am {age} years old"
 print(intro) # output: my name is john doe and I am 25 years old
+
+# repetition 
+star = "*"
+star *= 10
+# separator
+separtor = "-" * 20
+print(star) # output: **********
