@@ -17,4 +17,11 @@ String Methods
 
 Python strings come with many build-in methods - function you can call directly on any strings. These methods let you know transform text, search for patterns , and clean up data. The best part? You can often guess what they do from their names - upper() makes text uppercase, replace() replaces text, and so on.
 
+_------------------------------------------
+
+common mistake 
+
+> Forgetting the f in f strings
+> Wrong quotes in string
+
 
