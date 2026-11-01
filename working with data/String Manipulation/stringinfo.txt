@@ -1,0 +1,13 @@
+String Manipulation
+
+advanced text operations 
+
+working with text
+
+Now that you know what string are, let's learn how to manipulate them. Python gives you powerful tool to work with text.
+
+String Operations 
+
+Concatenation(joining)
+
+first_name = "Jane"
