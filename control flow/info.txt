@@ -1,0 +1,23 @@
+Cntrol Flow
+make your programs smart with decisions
+
+Making programs think
+
+so far, Your programs run top to bottom, executing every line. But real programs need to make decisions - "if this, than that"
+
+Control flow is what makes programs intelligent! 
+
+What you'll learn
+
+if statement 
+make decisions based on conditions 
+
+
+Real - World examples 
+Decision-making is everywhere:
+
+> ATM : IF Password correct, THEN allows access 
+> Apps: IF user clicks button, THEN perform action
+> Weather App: IF Temperature < 0, THEN show icon
+> Games: IF Health = 0, THEN game over
+

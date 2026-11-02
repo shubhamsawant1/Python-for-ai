@@ -1,0 +1,10 @@
+What are if statement ?
+
+if statement let your program make decisions. They check if something is true or false, Then act accordingly
+
+Real - life Logic
+
+> IF it's raining THAN take umbrela
+> IF battery < 20% THEN charge allows phone
+> IF Password correct THEN allow access
+
