@@ -1,0 +1,31 @@
+Data Structure
+
+Store multiple values together 
+
+Beyond single values 
+so far, You've stored one value per variable. But what if you need to store multiple values?
+That's where data structure come in
+
+Think of data structure as a container:
+
+> Lists: Like a shopping list (ordered items)
+
+> Dictionaries: Like a phone book(name > number)
+
+> Tuples: Like cooordinates(fixed values)
+
+> sets: Like a bag of unique items 
+
+# The Main structures 
+
+List - orderd, changeable collections 
+[when order matters and you need to change items]
+
+Dictionaries - key-values pairs for fast lookup
+[When you need to look up values by name]
+
+Tuples - Orderd, unchangeable collections
+[When data shoulden't change (like coordinates)]
+
+sets - Unique values only
+[When you only care about unique values]
