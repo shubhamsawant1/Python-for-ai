@@ -1,0 +1,27 @@
+# Control Flow 
+
+---- Loops -----
+
+Repeat code multiple times
+
+What are loops? 
+
+loops let you repeat code without writing if multiple times. insted of copying and pasting, you tell Python to repeat the code for you
+
+Without loops 
+
+print("Hello!")
+print("Hello!")
+print("Hello!")
+print("Hello!")
+print("Hello!")
+
+with the loop:
+
+for i in range(5):
+    print("Hello!")
+
+# Both do the same thing, but the loop is much cleaner!
+
+
+--- Python starts counting at 0, not 1. This is called "zero-inexing". SO range(5) gives you 0,1,2,3,4 (five numbers total)
