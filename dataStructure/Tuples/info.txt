@@ -13,3 +13,13 @@ Use tuples for data that shouldn't change:
 > Database records
 > Function return values
 
+Common Mistake 
+
+> Forgetting comma in single tuples
+# Wrong - not a tuple
+single = (42)
+print(type(single))  # <class 'int'>
+
+# Right - include comma
+single = (42,)
+print(type(single))  # <class 'tuple'>
