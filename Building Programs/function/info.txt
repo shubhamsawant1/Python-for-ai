@@ -1,0 +1,28 @@
+#Function 
+# Defining function 
+# Create your own reusable function
+
+your first function
+A function is a named black of code that performs a specific task. you define it ones, than call it whenever you need that task done.
+
+def function_name():
+    # Code goes here
+    # Must be indented
+    pass
+
+
+key parts:
+
+> def - keywords that create a function
+> Function name followed by paratheses ()
+> Colon : to start the function body 
+> Indented code block (the function body)
+
+--- Naming function ---
+
+Follow these rules for function names:
+
+> use lowercase letters 
+> Separate words with underscores 
+> Be descriptive about what it does
+

@@ -22,3 +22,12 @@ Why we use functions?
 > Fix bugs easier: Change code in one place, affects everywhere
 > Test your code: Test each function separately
 
+real-world Example 
+
+Function are everyWhere in programming:
+
+> print() - display text (built-in function)
+> len() - COunts items (built-in function)
+> calculate_text() - your custom function 
+> send_email() - your custom function
+
