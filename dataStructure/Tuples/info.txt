@@ -1,0 +1,15 @@
+# Data Structure 
+
+Tuples 
+Work with immutable sequences 
+
+What are Tuples
+Tuples are like lists, but they can't be changed ones created. They're immutable (unchangeble) sequences
+
+Use tuples for data that shouldn't change:
+
+> Coordinates (x, y)
+> RGB colors (255 , 0 , 0)
+> Database records
+> Function return values
+
