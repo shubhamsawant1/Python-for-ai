@@ -1,0 +1,24 @@
+# Function
+
+Function 
+Create reusable blocks of Code  
+
+Building with Function
+
+Functions are reusable blocks of Code that do specific tasks. Insted of writing the same Code multiple times. you write it ones as a function and call it whenever needed.
+
+Think of fuction like:
+
+> A recipe you can follow multiple times
+
+> A machine that tasks input and produces output
+
+> A named shortcut for complex operations
+
+Why we use functions?
+
+> Don't repeat yourself: Write code ones, use it many times
+> stay organized: Break complex programs into smaller pieces 
+> Fix bugs easier: Change code in one place, affects everywhere
+> Test your code: Test each function separately
+
