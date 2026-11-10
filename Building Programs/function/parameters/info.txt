@@ -1,0 +1,7 @@
+
+Functions
+Parameters
+Pass data into your functions
+
+What are parameters?
+Parameters let you pass data into functions. Instead of hardcoding values, you make functions flexible to work with different inputs.
