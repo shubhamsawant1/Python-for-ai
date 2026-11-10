@@ -11,3 +11,7 @@ greet("Bob") # hello, Alice
 greet("Bob", "Hi") # Hi, bob
 
 greet("Charlie", "Hey") #Hey, Charlie
+
+
+# Put parameters with default at the end. Required parameters come first , Optional ones last.
+
