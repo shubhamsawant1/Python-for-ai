@@ -11,5 +11,5 @@ def calculate_price():
 calculate_price() # calling function - [total: 110]
 
 # This fails - price doesn't exist outside the function 
-print(price) # NameError: name 'price' is not defined
+# print(price) # NameError: name 'price' is not defined
 
