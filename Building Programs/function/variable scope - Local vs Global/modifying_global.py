@@ -13,3 +13,6 @@ increment()
 increment()
 
 print(counter)  #2
+
+# ! Avoid using [global] when possible. it makes code harder to uunderstand and debug. insted, pass values as parameters and return result.
+
