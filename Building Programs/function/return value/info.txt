@@ -1,0 +1,7 @@
+# Function become truly powerful when they can return values. Let's  learn how!
+
+Return value
+Get results from function
+
+# Return Values
+#Get result back from your fun ction
