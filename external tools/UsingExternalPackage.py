@@ -18,3 +18,4 @@ data = {
 df = pd.DataFrame(data)
 print(df)
 
+#! Always use virtual environments for projects. They prevent package conflicts bwtween different projects. 
