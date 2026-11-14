@@ -1,0 +1,11 @@
+# External Pacakges need installation:
+
+# Install a package
+pip install requests
+
+# install specific version 
+pip install request request == 2.28.0
+
+# Install multiple packages 
+pip install pandas numpy matplotlip
+

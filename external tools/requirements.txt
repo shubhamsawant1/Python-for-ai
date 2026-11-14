@@ -1,0 +1,24 @@
+sharing Your Project
+
+When you share your python project, other need to know which packages to install. the standard way is using a requirements.txt file:
+
+Creating requirements.txt
+List all your peoject's packages:
+
+pip freeze > requirements.txt
+
+this creates a file like:
+
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.6
+requests==2.31.0
+urllib3==2.2.0
+
+Installing from requirements.txt
+When someone gets you project,, they run:
+
+pip install -r requirements.txt
+
+this install all the packages at once!
+
