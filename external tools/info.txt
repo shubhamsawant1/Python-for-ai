@@ -1,0 +1,67 @@
+how to use exernal libraries and APIs to extend Python's capabilties!
+
+External Tools 
+
+Extend python with packages 
+
+Beyond built-in Python 
+
+Python comes with many built-in function,, but its real power comes from external packages. These are pre-written code libraries that  add new capabilities.
+
+--- What are packages really?
+Package are just Python files containing code - typically combinations of function (Which you've learned) and classes (coming later). When you import a package, you're bringing that functionality into your project 
+
+What are packages really?
+Packages are just Python files containing code - typically combinations of functions (which you’ve learned) and classes (coming later). When you import a package, you’re bringing that functionality into your project.
+Two types of packages:
+Built-in: Come with Python installation (already in your environment)
+External: Downloaded from the internet into your virtual environment folder
+
+
+Python’s ecosystem
+Python has packages for everything:
+Web scraping: Extract data from websites
+Data analysis: Process spreadsheets and databases
+AI/ML: Build intelligent applications
+APIs: Connect to online services
+Automation: Control your computer
+
+> Import Package - Use external code
+> Work with APIs - Connect to services
+> Working with data - Process data efficiently
+
+
+Package examples
+Here are packages you’ll likely use:
+requests - Make web requests
+pandas - Work with data tables
+beautifulsoup4 - Parse HTML
+openai - Use AI models
+python-dotenv - Manage secrets
+
+--------------------------------------------------------------------------------------------
+
+External tools
+Import packages
+Use Python packages and libraries
+
+Using packages
+Python packages add new functionality to your programs. There are two types:
+Built-in: Come with Python (no installation needed)
+External: Need to install first with pip
+Understanding the terminology
+Let’s clarify what these terms mean:
+Module: A single Python file (like math.py)
+Package: A folder containing multiple modules
+Function: A reusable block of code (like print() or sqrt())
+Class: A blueprint for creating objects (we’ll cover this later)
+Think of it like this:
+A module is like a toolbox
+A package is like a garage with multiple toolboxes
+A function is like a specific tool (hammer, screwdriver)
+A class is like a blueprint for building tools
+------------------------------------------------------------------------------------------------------------------------------------------
+
+What’s happening:
+import math - brings in the entire math toolbox
+from math import sqrt - takes just the sqrt tool from the math toolbox
