@@ -19,6 +19,9 @@ response = requests.get(url)
 data = response.json()
 df = pd.DataFrame(data)
 print(df)
-
+temperature = data['current']['temperature_2m']
+print(f"Temperqture in Paris: {temperature}c")
 # install requests - pip install requests
+
+
 
