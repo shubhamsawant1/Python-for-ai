@@ -19,3 +19,25 @@ ________________________________________________________________________________
 What is a json - What is JSON? JSON (JavaScript Object Notation) is just a way to structure data, similar to CSV or Excel files. While CSV stores data in rows and columns, JSON uses key-value pairs like Python dictionaries.
 
 extract what you need 
+
+__________________________________________________________________________________________________________________________________________________
+
+
+------- How it works
+1. You send a request to the API’s URL with parameters (like coordinates)
+2. The API processes your request and finds the data
+3. You receive JSON data back with the information
+4. You extract the specific parts you need
+
+The pattern is always the same: connect to an API, send requests, get data back, use it in your code. APIs are how modern software talks to each other.
+
+---------------------------------------------------------------------------
+External tools
+Working with data
+Analyze and visualize data from APIs
+
+Building on APIs
+Let’s take the weather API from the previous page and create something useful. We’ll get weather data for the past 7 days, analyze it, visualize it, and save it.
+This brings together everything you’ve learned: APIs, data processing, file handling, and visualization.
+
+! Install required libraries: pip install requests pandas matplotlib
