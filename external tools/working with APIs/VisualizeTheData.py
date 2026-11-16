@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
-
+import pandas as pd
 # Create the plot
 
-plt.figure(figsize)=(10, 6)
+plt.figure(figsize=(10, 6))
 plt.plot(df['date'], df['max_temp'], marker='o', label='Max Temp')
 plt.plot(df['date'], df['min_temp'], marker='o', label='Min Temp')
 
